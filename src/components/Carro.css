@@ -1,0 +1,9 @@
+@media screen and (max-width: 550px) {
+  .carro {
+      width: 100%;
+  }
+}
+
+.carro{
+  background-color: red;
+}
